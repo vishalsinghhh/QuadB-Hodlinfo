@@ -9,7 +9,7 @@ Here we have used The wazirx API. https://api.wazirx.com/api/v2/tickers and stor
 
 Success. Demo link is given below...
 <br/>
-<a href="https://newsxp.netlify.app/" target="_blank">Link</a>
+<a href="https://hodlingo-testing.herokuapp.com/" target="_blank">Link</a>
 ## Installation and Setup Instructions
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.
 
